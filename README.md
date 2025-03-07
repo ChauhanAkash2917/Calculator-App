@@ -7,6 +7,7 @@
 A beautiful and easy-to-use Calculator App built with HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed with a sleek UI, smooth animations, and a user-friendly experience! 💫
 
 
+
 **🎯 Features**
 
 ✅ Basic Arithmetic Operations ➕➖✖️➗ (Add, Subtract, Multiply, Divide)
@@ -24,6 +25,7 @@ A beautiful and easy-to-use Calculator App built with HTML, CSS, and JavaScript.
 ✅ Error Handling 🚨 – Prevents invalid operations like division by zero
 
 
+
 **🏗️ Tech Stack**
 
 🔹 HTML – Structure the calculator layout
@@ -34,6 +36,7 @@ A beautiful and easy-to-use Calculator App built with HTML, CSS, and JavaScript.
 
 
 
+
 **🚀 How to Run**
 
 1️⃣ Download the project or copy the code.
@@ -41,6 +44,7 @@ A beautiful and easy-to-use Calculator App built with HTML, CSS, and JavaScript.
 2️⃣ Open the index.html file in your browser.
 
 3️⃣ Start calculating like a pro! 🎉
+
 
 
 **🛠️ Let's Build It!**
